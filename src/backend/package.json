@@ -46,7 +46,7 @@
     "html-entities": "^2.3.3",
     "is-glob": "^4.0.3",
     "isbot": "^3.7.1",
-    "jimp": "^0.22.8",
+    "jimp": "^1.0.2",
     "js-sha256": "^0.9.0",
     "json5": "^2.2.3",
     "jsonwebtoken": "^9.0.0",
