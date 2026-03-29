@@ -17,6 +17,6 @@
     "enquirer": "^2.4.1",
     "js-levenshtein": "^1.1.6",
     "word-wrap": "^1.2.5",
-    "yaml": "^2.4.5"
+    "yaml": "^2.8.3"
   }
 }
