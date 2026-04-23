@@ -10,11 +10,11 @@
   },
   "devDependencies": {
     "chai": "^4.3.7",
-    "express": "^4.18.2",
-    "jsdom": "^21.1.0",
+    "express": "^4.22.1",
+    "jsdom": "^29.0.2",
     "mocha": "^10.2.0",
     "sinon": "^15.2.0",
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.4",
     "supertest": "^6.3.3"
   }
 } 
