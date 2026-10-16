@@ -46,7 +46,7 @@
     "helmet": "^7.2.0",
     "hi-base32": "^0.5.1",
     "html-entities": "^2.3.3",
-    "ioredis": "^5.10.1",
+    "ioredis": "^6.0.0",
     "ioredis-mock": "^8.13.1",
     "jsonwebtoken": "^9.0.3",
     "lorem-ipsum": "^2.0.8",
